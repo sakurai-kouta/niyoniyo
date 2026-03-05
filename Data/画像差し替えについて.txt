@@ -1,17 +1,17 @@
-UserDataフォルダ下に特定の名前のファイルを配置することで、各種画像差し替えが可能です。
+Data/UserDataフォルダ下に特定の名前のファイルを配置することで、各種画像差し替えが可能です。
 存在しない場合はデフォルトの画像が適用されます。
 
 〇ユーザアイコン
-UserData/icon_user.png
+Data/UserData/icon_user.png
 56px*56px推奨
 
 〇サムネイル
-UserData/thum1.png
-UserData/thum2.png
-UserData/thum3.png
+Data/UserData/thum1.png
+Data/UserData/thum2.png
+Data/UserData/thum3.png
 240px*135px推奨
 
 〇実況アバター
-UserData/avatar.png
+Data/UserData/avatar.png
 78px*78px推奨
 
