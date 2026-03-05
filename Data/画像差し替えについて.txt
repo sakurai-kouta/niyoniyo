@@ -11,3 +11,7 @@ UserData/thum2.png
 UserData/thum3.png
 240px*135px推奨
 
+〇実況アバター
+UserData/avatar.png
+78px*78px推奨
+
